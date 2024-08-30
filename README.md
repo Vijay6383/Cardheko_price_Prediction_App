@@ -78,7 +78,7 @@ Run App
 
 ## Data Source
 
-- [CarDheko Website](https://www.cardekho.com/)
+[CarDheko Website](https://www.cardekho.com/)
 ## Demo
 
 [Application Demo]()
